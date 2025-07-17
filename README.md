@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo completo del proyecto de Visión Artificial dividido en dos partes:
 
-- **Parte 1**: Fusión de fuentes de video con segmentación cromática.
+- **Parte 1**: Fusión de fuentes de video con segmentación cromática ejecutar archivo **"proyectojcdav2.py"**.
 - **Parte 2**: Detección de objetos usando modelos YOLOv11 con entrenamiento personalizado.
 
 Incluye código fuente, resultados, informes, y modelos entrenados.

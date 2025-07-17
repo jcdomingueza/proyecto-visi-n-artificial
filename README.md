@@ -7,7 +7,7 @@ Este repositorio contiene el desarrollo completo del proyecto de Visión Artific
 
 - **Parte 2**: Detección de objetos usando modelos YOLOv11 con entrenamiento personalizado.  
   📁 Ver resultados en los archivos **`Yolo*.html`**  
-  🦎 [Acceder al dataset de especies endémicas de Galápagos (entrenamiento)](https://drive.google.com/file/d/1d9x98tVaY84lFh4eYVAInMj3GPOZs5yp/view?usp=drive_link)
+  🦎 [Acceder al material del trasnferlearning de especies endémicas de Galápagos (entrenamiento)](https://drive.google.com/file/d/1d9x98tVaY84lFh4eYVAInMj3GPOZs5yp/view?usp=drive_link)
 
 Incluye código fuente, resultados, informes y modelos entrenados.
 

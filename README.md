@@ -2,10 +2,14 @@
 
 Este repositorio contiene el desarrollo completo del proyecto de Visión Artificial dividido en dos partes:
 
-- **Parte 1**: Fusión de fuentes de video con segmentación cromática ejecutar archivo **"proyectojcdav2.py"**.
-- **Parte 2**: Detección de objetos usando modelos YOLOv11 con entrenamiento personalizado. **"(Archivos Yolo*.html)"**
+- **Parte 1**: Fusión de fuentes de video con segmentación cromática. Ejecutar el archivo **`proyectojcdav2.py`**.  
+  📽️ [Ver demostración en video](https://estliveupsedu-my.sharepoint.com/personal/jdominguez_ups_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjdominguez%5Fups%5Fedu%5Fec%2FDocuments%2FVIDEO%5FPARTE1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eada7f43a%2D504c%2D4451%2Db994%2D2af69920c136)
 
-Incluye código fuente, resultados, informes, y modelos entrenados.
+- **Parte 2**: Detección de objetos usando modelos YOLOv11 con entrenamiento personalizado.  
+  📁 Ver resultados en los archivos **`Yolo*.html`**  
+  🦎 [Acceder al dataset de especies endémicas de Galápagos (entrenamiento)](https://drive.google.com/file/d/1d9x98tVaY84lFh4eYVAInMj3GPOZs5yp/view?usp=drive_link)
+
+Incluye código fuente, resultados, informes y modelos entrenados.
 
 ## Estructura del repositorio
 
@@ -21,4 +25,4 @@ Incluye código fuente, resultados, informes, y modelos entrenados.
 
 ## Autor
 
-Juan Carlos Domínguez Ayala
+**Juan Carlos Domínguez Ayala**

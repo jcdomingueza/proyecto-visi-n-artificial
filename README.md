@@ -17,7 +17,7 @@ Incluye código fuente, resultados, informes y modelos entrenados.
 
 - `parte1_fusion-croma/`: Scripts y resultados de la fusión de videos con segmentación de color.
 - `parte2_objetos-yolo/`: Scripts y resultados del entrenamiento y evaluación con YOLOv11.
-- `informe_final/`: Informe unificado del proyecto.
+- `informe_final/`: VisionFinalP1JCDA.pdf / VisionFinalP2JCDA.pdf
 
 ## Tecnologías
 

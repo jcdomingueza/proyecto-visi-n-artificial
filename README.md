@@ -5,7 +5,7 @@ Este repositorio contiene el desarrollo completo del proyecto de Visión Artific
 - **Parte 1**: Fusión de fuentes de video con segmentación cromática. Ejecutar el archivo **`proyectojcdav2.py`**.  
   📽️ [Ver demostración en video](https://estliveupsedu-my.sharepoint.com/personal/jdominguez_ups_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjdominguez%5Fups%5Fedu%5Fec%2FDocuments%2FVIDEO%5FPARTE1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eada7f43a%2D504c%2D4451%2Db994%2D2af69920c136)
   
-📁 [Acceder al material de Parte 1 (Drive)](https://drive.google.com/file/d/12a7wy9dK-8JY6zsYwnYyQpKX8gqT7hbs/view?usp=sharing)
+   📁 [Acceder al material de Parte 1 (Drive)](https://drive.google.com/file/d/12a7wy9dK-8JY6zsYwnYyQpKX8gqT7hbs/view?usp=sharing)
 
 - **Parte 2**: Detección de objetos usando modelos YOLOv11 con entrenamiento personalizado.  
   📁 Ver resultados en los archivos **`Yolo*.html`**  
